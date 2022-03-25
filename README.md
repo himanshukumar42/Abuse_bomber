@@ -1,0 +1,2 @@
+# Abuse_bomber
+This is a abuse bomber. This is a Prank Project of abuse bomber in which you can send many abusive message as you can to a whatsapp number added to your contact list. The message will be send through your contact number. In the Code some pre-define abusive words are present you can change them according to your words. And this Project solely for Educational and Entertainment Purpose. Use the Scrip at your own risk.
